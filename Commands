@@ -1,1 +1,8 @@
 secrets.token_hex(12)
+
+pip install django-phonenumber-field[phonenumbers]
+pip install -U djoser
+pip install djangorestframework_simplejwt
+
+
+
